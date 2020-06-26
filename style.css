@@ -8,13 +8,20 @@
 				color: #665544;}
 h1{
 	color: white;
+	text-align: center;
 }
 ul{
 	color: white;
+
 }	
 ol{
 	color:white;
+	
 }	
+li{
+	list-style: none;
+}
+
 			a {
 				color: #0088dd;
 				text-decoration: none;}
